@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Bóc lịch</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="gotocalendar">Go to Calendar</string>
+
+    <string name="thu">Thứ</string>
+    <string name="thang">Tháng</string>
+    <string name="nam">Năm</string>
+    <string name="ngay">Ngày</string>
+    <string name="find">Tìm ngày âm lịch</string>
+    <string name="title_activity_calendar">CalendarActivity</string>
+    <string name="title_activity_add_work_">Add_work_Activity</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
